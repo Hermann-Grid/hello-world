@@ -1,2 +1,3 @@
 # hello-world
-A frist test of using GitHub
+A basic test of using GitHub
+still hoping ot understand this!
